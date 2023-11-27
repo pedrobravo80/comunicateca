@@ -201,6 +201,7 @@ blockquote {
 
 .tm-hero-subtitle {
   text-shadow: 2px 2px 2px #333;
+  font-size: 25px;
 }
 
 .tm-intro-next {
@@ -249,6 +250,7 @@ blockquote {
 .tm-section-title {
   font-size: 2.6rem;
   font-weight: normal;
+  text-align: center;
 }
 
 .tm-intro-text {
@@ -331,7 +333,7 @@ blockquote {
 
 .tm-gallery-container {
   padding-top: 70px;
-  padding-bottom: 120px;
+ 
 }
 
 .tm-gallery-item {
@@ -518,7 +520,7 @@ figure.effect-honey:hover h2 i {
   background-image: url(../img/infinite-loop-03.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 980px;
+
   position: relative;
   padding-bottom: 50px;
   padding-top: 100px;

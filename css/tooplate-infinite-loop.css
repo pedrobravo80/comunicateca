@@ -458,8 +458,10 @@ figure.effect-honey img {
   transition: opacity 0.35s;
 }
 
-figure.effect-honey:hover img {
+figure.effect-honey img {
   opacity: 0.4;
+  height: 300px;
+  object-fit: cover;
 }
 
 figure.effect-honey figcaption::before {
@@ -468,7 +470,7 @@ figure.effect-honey figcaption::before {
   left: 0;
   width: 100%;
   height: 10px;
-  background: #38C;
+  background: rgb(51, 204, 117);
   content: "";
   -webkit-transform: translate3d(0, 10px, 0);
   transform: translate3d(0, 10px, 0);
@@ -500,9 +502,9 @@ figure.effect-honey h2 {
   transition: transform 0.35s;
 }
 
-figure.effect-honey:hover figcaption::before,
-figure.effect-honey:hover h2,
-figure.effect-honey:hover h2 i {
+figure.effect-honey figcaption::before,
+figure.effect-honey h2,
+figure.effect-honey h2 i {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
@@ -735,4 +737,26 @@ p {
 }
 .logo {
   height: 65px;
+}
+
+.reduced {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 5px solid #051c11;
+}
+
+#valors {
+  color: white;
+  background-image: url(../img/infinite-loop-02.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+}
+
+@media (max-width: 991px) {
+  #valors {
+    background-image: url(../img/infinite-loop-02-mobile.jpg);
+  }
 }

@@ -1255,14 +1255,14 @@ form {
 
 
 @media only screen and (max-width: 480px) {
-	.moon h2 {
-  color: white !important;
-  margin: 12px !important;
-  max-width: 100% !important;
-  font-size: 2.5rem !important;
-}
 .service-img {
   min-width: 100vw;
+}
+.moon h2 {
+  color: white !important;
+  margin: 12px !important;
+  max-width: 150% !important;
+  font-size: 2.2rem !important;
 }
 .tm-hero-text-container-inner h1 {
 

@@ -1358,3 +1358,9 @@ b, strong {
 .rounded h6 {
   color: #051c11 !important;
 }
+
+.tm-section-desc {
+  max-width: 798px;
+  width: 100%;
+  font-size: 1.222222222222222222222222rem;
+}

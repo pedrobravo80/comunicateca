@@ -1255,6 +1255,12 @@ form {
 
 
 @media only screen and (max-width: 480px) {
+	.moon h2 {
+  color: white !important;
+  margin: 10px;
+  max-width: 100%;
+  font-size: 2.5rem;
+}
 .service-img {
   min-width: 100vw;
 }

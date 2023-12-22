@@ -1518,6 +1518,9 @@ b, strong {
 
 
 @media only screen and (max-width: 480px){
+.proyects-container {
+width: 100%;
+}
 
 .proyects-container img {
   max-width: 262px;

@@ -1379,12 +1379,14 @@ b, strong {
   height: 308px;
 
   right: 30px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
 #b {
   width: 38.46153846153846%;
   right: 24px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1396,6 +1398,7 @@ b, strong {
   top: 2px;
 
   right: -6px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1405,7 +1408,7 @@ b, strong {
   width: 74.92307692307692%;
 
   top: 72px;
-
+box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
   right: 14px;
 }
 
@@ -1415,6 +1418,7 @@ b, strong {
   width: 23.07692307692308%;
   top: -157px;
   right: -14px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1423,6 +1427,7 @@ b, strong {
   width: 23.07692307692308%;
   top: -406px;
   right: -873px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1432,6 +1437,7 @@ b, strong {
   width: 23.07692307692308%;
   top: -167px;
   right: -578px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1440,6 +1446,7 @@ b, strong {
   width: 36.61538461538462%;
   top: 122px;
   right: 700px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1448,6 +1455,7 @@ b, strong {
   width: 35.38461538461538%;
   top: -183px;
   right: -458px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1459,6 +1467,8 @@ b, strong {
   top: -188px;
 
   right: -500px;
+
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1470,6 +1480,7 @@ b, strong {
   right: 779px;
 
   top: 165px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1478,6 +1489,7 @@ b, strong {
   width: 61.8%;
   top: -146px;
   right: -477px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1489,6 +1501,7 @@ b, strong {
   top: 105px;
 
   right: 800px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1500,6 +1513,7 @@ b, strong {
   top: -122px;
 
   right: -240px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 
@@ -1511,6 +1525,7 @@ b, strong {
   top: -121px;
 
   right: -265px;
+	box-shadow: 5px 7px 15px -10px rgba(0,0,0,0.75);
 }
 
 .proyects-container img {

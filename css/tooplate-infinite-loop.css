@@ -852,8 +852,7 @@ h1 {
 }
 
 .proyects-container img {
-  max-width: 262px;
-  margin: 20px;
+
   object-fit: contain;
 }
 
@@ -1363,4 +1362,309 @@ b, strong {
   max-width: 798px;
   width: 100%;
   font-size: 1.222222222222222222222222rem;
+}
+
+
+
+
+
+
+
+
+#a {
+
+  width: 37.69230769230769%;
+
+  height: 308px;
+
+  right: 30px;
+}
+
+
+#b {
+  width: 38.46153846153846%;
+  right: 24px;
+}
+
+
+
+#c {
+
+  width: 23.07692307692308%;
+
+  top: 2px;
+
+  right: -6px;
+}
+
+
+
+#d {
+
+  width: 74.92307692307692%;
+
+  top: 72px;
+
+  right: 14px;
+}
+
+
+
+#e {
+  width: 23.07692307692308%;
+  top: -157px;
+  right: -14px;
+}
+
+
+
+#f {
+  width: 23.07692307692308%;
+  top: -406px;
+  right: -873px;
+}
+
+
+
+#g {
+
+  width: 23.07692307692308%;
+  top: -167px;
+  right: -578px;
+}
+
+
+
+#h {
+  width: 36.61538461538462%;
+  top: 122px;
+  right: 700px;
+}
+
+
+
+#i {
+  width: 35.38461538461538%;
+  top: -183px;
+  right: -458px;
+}
+
+
+
+#j {
+
+  width: 22.92307692307692%;
+
+  top: -188px;
+
+  right: -500px;
+}
+
+
+
+#k {
+
+  width: 36.61538461538462%;
+
+  right: 779px;
+
+  top: 165px;
+}
+
+
+
+#l {
+  width: 61.8%;
+  top: -146px;
+  right: -477px;
+}
+
+
+
+#m {
+
+  width: 36.61538461538462%;
+
+  top: 105px;
+
+  right: 800px;
+}
+
+
+
+#n {
+
+  width: 29.23076923076923%;
+
+  top: -122px;
+
+  right: -240px;
+}
+
+
+
+#o {
+
+  width: 29.23076923076923%;
+
+  top: -121px;
+
+  right: -265px;
+}
+
+.proyects-container img {
+  position: relative;
+}
+
+
+@media only screen and (max-width: 480px){
+
+.proyects-container img {
+  max-width: 262px;
+  margin: 20px;
+  object-fit: contain;
+}
+
+#a {
+
+  width: 100%;
+
+
+height: auto;
+  right: auto;
+}
+
+
+#b {
+  width:  100%;
+  right: auto;
+}
+
+
+
+#c {
+
+  width:  100%;
+
+  top: auto;
+
+  right: auto;
+}
+
+
+
+#d {
+
+  width:  100%;
+
+  top: auto;
+
+  right: auto;
+}
+
+
+
+#e {
+  width:  100%;
+  top: auto;
+  right: auto;
+}
+
+
+
+#f {
+  width:  100%;
+  top: auto;
+  right: auto;
+}
+
+
+
+#g {
+
+  width:  100%;
+  top: auto;
+  right: auto;
+}
+
+
+
+#h {
+  width:  100%;
+  top: auto;
+  right: auto;
+}
+
+
+
+#i {
+  width: 100%;
+  top: auto;
+  right: auto;
+}
+
+
+
+#j {
+
+  width:  100%;
+
+  top: auto;
+
+  right: auto;
+}
+
+
+
+#k {
+
+  width:  100%;
+
+  right: auto;
+
+  top: auto;
+}
+
+
+
+#l {
+  width: 100%;
+  top: auto;
+  right: auto;
+}
+
+
+
+#m {
+
+  width:  100%;
+
+  top: auto;
+
+  right: auto;
+}
+
+
+
+#n {
+
+  width:  100%;
+
+  top: auto;
+
+  right: auto;
+}
+
+
+
+#o {
+
+  width:  100%;
+
+  top: auto;
+
+  right: auto;
+}
+
+
 }
